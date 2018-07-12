@@ -46,4 +46,3 @@ Some general notes about key terms used by the Murkutu application, which Ngan'g
 * [Bulk importing Dictionary words](help_guide/ma.md#bulk-importing-dictionary-words)
 * [Change page layout](help_guide/ma.md#change-page-layout)
 * [Activate Comments box](help_guide/ma.md#activate-comments-box)
-# ngangi_help
