@@ -1,3 +1,6 @@
+# this is Nick's first change
+
+
 # Help Guide Directory
 The Help Guide is broken up by user roles. As the user's permissions will determine what they can do in the application, it made sense to structure the Guide this way.
 
